@@ -1,10 +1,5 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761168423d9a812b7cdf3c31dfd0c47b707b5a557741&rid=giphy.gif&ct=g" width="300"/>
-  <div id="badges">
-    <a href="todo">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
