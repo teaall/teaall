@@ -12,7 +12,8 @@
 
 - :seedling: Currently studying for my Masters degree in Computer Science at the University of Hamburg.
 
-- :mailbox:Reach me via: [![Linkedin Badge](https://img.shields.io/badge/-MatteaAllgeier-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mattea-allgeier-674345326)
+- :mailbox: Reach me via: [![Linkedin Badge](https://img.shields.io/badge/-MatteaAllgeier-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mattea-allgeier-674345326)
+
 
 ---
 
