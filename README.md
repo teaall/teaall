@@ -8,7 +8,7 @@
 
 ### :woman_technologist: I am a Software Engineer from Germany.
 
-- :telescope: I’m employed as a working student Software Engineer and contributing to frontend and backend for building applications.
+- :telescope: I’m employed as a Software Engineer and contributing to frontend and backend for building applications.
 
 - :mailbox: Reach me via: [![Linkedin Badge](https://img.shields.io/badge/-MatteaAllgeier-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mattea-allgeier-674345326)
 
